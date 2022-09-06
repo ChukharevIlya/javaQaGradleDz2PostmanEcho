@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/umpursjb34085sim?svg=true)](https://ci.appveyor.com/project/ChukharevIlya/javaqagradledz2postmanecho)
